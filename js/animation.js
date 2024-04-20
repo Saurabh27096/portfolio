@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Saurabh Yadav","Problem solver", "Flutter Developer"];
+const textArray = ["Saurabh Yadav","Spring Boot Developer", "Problem solver", "Flutter Developer"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
